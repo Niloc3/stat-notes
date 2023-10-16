@@ -7,14 +7,18 @@ He just went over a couple of questions. If theres one ur confused by you can as
 ### Question 4:
 
 > Which is true?
+
 I. Random scatter in the residuals indicates a model with high predictive power.
+
 **- FALSE because this is indicating a linear model is appropriate not anything about the strenth**
 
 II. If two variables are very strongly associated, then the correlation between them will be near +1.0 or -1.0.
+
 **- FALSE: Highlighting difference between accociation and correlation, strong accociation could be anything, could be a strong accociation for a parabola or log or whatever but it would have a low correlation because it is not LINEAR.**
 
 III. The higher the correlation between two variables the more likely the association is based in cause and effect.
-** - FALSE: correlation is not causation**
+
+**- FALSE: correlation is not causation**
 
 
 
@@ -32,7 +36,8 @@ III. The higher the correlation between two variables the more likely the associ
 
 > If the point in the upper right corner of this scatterplot is removed from the data set, then what will happen to the slope of the line of best fit (b) and to the correlation (r) ?
 
-<img src="https://mcpsmd.instructure.com/users/3000/files/23611001/preview?verifier=UXDTlrIXTPGLwKSuT79LnmVeUcUnEpizSw1PxAUD"></img>
+<img src="https://mcpsmd.instructure.com/users/3000/files/23611001/preview?verifier=UXDTlrIXTPGLwKSuT79LnmVeUcUnEpizSw1PxAUD">
+
 **b will decrease, and r will increase.**
 The point is pulling the slope up and when it is removed then it will come down therefor decreasing. The r value will then get stronger because there is one less point with a large residual
 
@@ -50,6 +55,7 @@ To find r from r^2 just take square root and then look at the slope to find if i
 
 ### Question 4:
 > The correlation coefficient between the hours that a person is awake during a 24-hour period and the hours that same person is asleep during a 24-hour period is most likely to be
+
 **exactly -1.0**
 
 The two are connected so if you are awake for 24 you are asleep for 0, there is no option for any of the points to be off the the line they fit the model perfectly and there is no third option, you are either asleep or awake for each hour in 24 hours.
